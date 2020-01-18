@@ -15,4 +15,6 @@ def genre_count
 array = self.split (/ [\ .?!] /)
 array.length
 end
+
+@@genres = []
 end
