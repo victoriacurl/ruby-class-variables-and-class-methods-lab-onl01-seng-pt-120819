@@ -12,5 +12,5 @@ def self.count
 end
 
 array = self.split (/ [\ .?!] /)
-
+array.length
 end
