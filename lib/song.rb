@@ -11,7 +11,7 @@ def self.count
   @@song_count
 end
 
+def genre_count
 array = self.split (/ [\ .?!] /)
 array.length
-end
 end
