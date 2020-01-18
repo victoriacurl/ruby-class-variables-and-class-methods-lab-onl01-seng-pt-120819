@@ -10,4 +10,7 @@ end
 def self.count
   @@song_count
 end
+
+array = self.split (/ [\ .?!] /)
+
 end
