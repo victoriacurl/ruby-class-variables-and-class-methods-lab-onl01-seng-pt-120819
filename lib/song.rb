@@ -14,3 +14,4 @@ end
 array = self.split (/ [\ .?!] /)
 array.length
 end
+
